@@ -1,4 +1,4 @@
-# Flipkart-Front-Clone-Project
+# Flipkart-Front-Clone
 
 Currently, a basic clone of the Flipkart front page made only using HTML and CSS.
 
